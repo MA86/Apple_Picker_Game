@@ -8,7 +8,7 @@ C#, Unity3D.
 
 ## Demonstration
 
-TBA
+COMING SOON
 
 
 *The book I read for this project is called,* **Introduction to Game Design, Prototyping, and Development: From Concept to Playable Game with Unity and C#**.
